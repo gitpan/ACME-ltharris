@@ -6,15 +6,13 @@ use warnings;
 
 =head1 NAME
 
-ACME::ltharris - The great new ACME::ltharris!
-
 =head1 VERSION
 
-Version 0.01
+Version 0.03_01
 
 =cut
 
-our $VERSION = '0.03'
+our $VERSION = '0.03_01'
 
 
 =head1 SYNOPSIS

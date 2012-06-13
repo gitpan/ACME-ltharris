@@ -1,5 +1,5 @@
 ---
-abstract: 'The great new ACME::ltharris!'
+abstract: unknown
 author:
   - 'L.T. Harris <lth@ltharris.com>'
 build_requires:
@@ -19,4 +19,4 @@ no_index:
     - inc
 requires:
   Test::More: 0
-version: 0.03
+version: 0.03_01

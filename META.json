@@ -1,5 +1,5 @@
 {
-   "abstract" : "The great new ACME::ltharris!",
+   "abstract" : "unknown",
    "author" : [
       "L.T. Harris <lth@ltharris.com>"
    ],
@@ -36,6 +36,6 @@
          }
       }
    },
-   "release_status" : "stable",
-   "version" : "0.03"
+   "release_status" : "testing",
+   "version" : "0.03_01"
 }
